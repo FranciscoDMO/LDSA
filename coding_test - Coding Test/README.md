@@ -21,8 +21,6 @@ If you need more detailed instructions than these, please check the README in SL
 
 ### Submitting your work for grading
 
-You've downloaded a zip file with the coding test from the portal [here](https://admissions.lisbondatascience.org/candidate/coding-test).
-
 In order to pass the test, you have to solve the exercises from the notebook, submit them for grading and get a score of at least 16 (out of 20).
 
 > In the submissions file uploader, you should upload **only the Exercises Notebook with your solutions**, you don't need to create a zip file or anything else!
